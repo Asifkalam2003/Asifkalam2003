@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1b4965,100:7dd3fc&height=220&section=header&text=Asif%20Kalam&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20Backend%20%26%20Cloud&descAlignY=52&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1b4965,100:7dd3fc&height=220&section=header&text=Asif%20Kalam&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20Backend%20%2B%20Cloud&descAlignY=52&descSize=18" />
 
-<img src="./assets/profile.jpg" width="150" height="150" style="border-radius:50%;object-fit:cover;border:3px solid #7dd3fc;" alt="Asif Kalam" />
+<img src="./assets/profile-circle.png" width="150" alt="Asif Kalam" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Backend+%26+Cloud+Engineer;Java+%7C+Python+%7C+Node.js+%7C+AWS;Building+scalable+service-based+systems;Presented+research+at+ICCCNT+2025%2C+IIT+Indore" alt="Typing SVG" />
