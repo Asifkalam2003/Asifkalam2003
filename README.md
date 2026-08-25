@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:660000,100:e63946&height=220&section=header&text=Asif%20Kalam&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20Backend%20%2B%20Cloud&descAlignY=52&descSize=18" />
+<img width="100%" src="./assets/hero-banner.jpg" alt="Asif Kalam" />
 
 <img src="./assets/profile-circle.png" width="150" alt="Asif Kalam" />
 
@@ -154,4 +154,4 @@ A complete game engine built from scratch in vanilla JavaScript using a strict M
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:e63946,50:660000,100:000000&height=120&section=footer&animation=twinkling" />
+<img width="100%" src="./assets/footer-banner.jpg" />
