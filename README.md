@@ -28,7 +28,7 @@ const asifKalam = {
   title: "Software Engineer",
   focus: "Backend & Cloud Development",
   stack: {
-    languages: ["Java", "Python", "C++", "C", "JavaScript", "SQL"],
+    languages: ["Java", "C++", "C", "JavaScript", "SQL"],
     backend: ["Node.js", "Express.js", "REST APIs", "Socket.io"],
     frontend: ["React.js"],
     cloud: ["AWS EC2", "S3", "Lambda", "IAM", "RDS", "DynamoDB", "CloudWatch", "CloudFormation", "VPC"],
